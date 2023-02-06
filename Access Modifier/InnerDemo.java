@@ -1,6 +1,6 @@
-package com.telusko;
+package com.Test;
 
-import com.telusko.test.Student;
+import com.Test.test.Student;
 
 public class InnerDemo
 {
