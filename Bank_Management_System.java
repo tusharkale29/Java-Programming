@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@tusharkale29 
+tusharkale29
+/
+Java-Programming
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Java-Programming/Bank Management System -Mini project java
+@tusharkale29
+tusharkale29 Update Bank Management System -Mini project java
+Latest commit 48b14b4 now
+ History
+ 1 contributor
+239 lines (191 sloc)  4.53 KB
 
 package com.braindata.bankmanagement.model;
 
