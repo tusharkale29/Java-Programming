@@ -1,0 +1,21 @@
+Constructor:
+	Constructors in Java is a terminology used to construct something in our programs. A constructor in Java is a special method that is used to initialize objects. 
+	The constructor is called when an object of a class is created. 
+	At the time of calling constructor, memory for the object is allocated in the memory.
+	It can be used to set initial values for object attributes.
+
+	Types of Constructor:
+1.	No-argument constructor:
+	A constructor that has no parameter is known as the No-argument constructor.
+
+2.	Parameterized Constructor:
+	A constructor that has parameters is known as parameterized constructor. 
+	If we want to initialize fields of the class with our own values, then we can use a parameterized constructor.
+
+3.	Default Constructor:
+	If there is no constructor in a class, compiler automatically creates a default constructor.
+
+	Rules for creating java constructor:
+1.	Constructor name must be the same as its class name
+2.	A Constructor must have no return type
+3.	A Java constructor cannot be abstract, static, final, and synchronized
